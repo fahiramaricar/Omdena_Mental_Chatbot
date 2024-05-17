@@ -1,0 +1,3 @@
+# Mental Health Chatbot
+
+This chatbot provides personalized mental health support, guidance, and a listening ear to those navigating the challenges of online platforms. Powered by a fine-tuned Mistral 7b LLM model, trained on therapy-like counseling responses, it adeptly addresses various mental health issues users may experience. The chatbot is equipped with extensive knowledge to offer resources and answers on mental health concerns related to social media. The training data consisted of user queries from social media, with sentiment analysis conducted using XGBoost and BERT models to evaluate user mood and respond appropriately.
